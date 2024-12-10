@@ -1,4 +1,4 @@
-# Python Practice Problems
+# Python Practice Problems (UChicago)
 
 This repository contains a collection of Python practice problems, primarily intended for students taking CMSC 14100 and CMSC 14200 at the University of Chicago.
 
